@@ -1,0 +1,47 @@
+Enter the Query :what is customer id of customer whose pin code is 4
+what is customer id of customer whose pin code is 4
+['what', 'is', 'customer', 'id', 'of', 'customer', 'whose', 'pin', 'code', 'is', '4']
+[('what', 'WP'), ('is', 'VBZ'), ('customer', 'NN'), ('id', 'NN'), ('of', 'IN'), ('customer', 'NN'), ('whose', 'WP$'), ('pin', 'NN'), ('code', 'NN'), ('is', 'VBZ'), ('4', 'CD')]
+Table Attribute Special List CodeGenerator.py
+['customers']
+['*']
+['what', 'is', 'id', 'of', 'whose', 'pin', 'code', 'is']
+x_x
+relational operation for each numeral
+{'4': '='}
+num attribute list
+{}
+x_x
+Numeral conditions
+[]
+Condition list
+{}
+Where Clause List
+[]
+x_x
+finalWhereclause
+[]
+Final Query
+SELECT * FROM customers;
+
+(nlpsql1) C:\Users\Shubhangi sakarkar\nlpsql1>
+===================================================================
+
+Q2what is total amount of customer id 270384
+q3 what is quantity 
+
+
+q4 what is the tax paid in transcation id??
+
+q5 what is totalsales for cid??
+what is the quantity of product purchased by cid??
+what is the total quantity of product purchased by cid??
+what is the total sales for clothing category??
+which product having the max sales?
+
+
+add join cond as list
+max n handle different
+
+
+what is sales of clothing category
