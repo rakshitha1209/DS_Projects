@@ -1,0 +1,29 @@
+Understanding the business problem
+
+As the client deals with automobile products especially for 2 wheelers,they have multiple service centers
+but there is gap between what is demand in service center and production units.
+
+Here we have to build a machine learning model which will predict the demand of particluar spare parts in
+particular center so that gap between demand and supply can be maintained.
+
+
+General hypothesis 
+
+Hypothesis1:There will be increase in demand as the year pass by.
+Explaination:-Since the population is increasing and growing so we can expect rising demand in coming years.
+
+
+Hypothesis2:There is specific month/time when we can expect rise in demand.
+Explaination:-In the months of rainy seasons some automobile parts gets prone to demage.They requires replacement
+               or repair.
+
+Hypothesis3:There is specific products which has more demands than usaul products.
+Explaination:-There are some products like self starters which has high chances to get damage during rainy and
+               winter seasons.
+
+Hypothesis4:The demand of spare parts are regional
+Explaination:-Due to natural calamities there is chance that demand at the region is 0 but after everthing settles
+              we can expect demands.
+
+Hypothesis5:-The demand is more during weekends.
+Explaination:-On weekdays generally people will have offices,works so we can expect demands durinf weekends.
